@@ -1,0 +1,23 @@
+/*Regular class*/
+.normal{
+    background-color: rgb(207, 137, 137);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*Unique class*/
+.cooler{
+    font-size: 24px;
+}
+
+/*ID Number 2*/
+#Number2{
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+/*ID Number 4*/
+#Number4{
+    background-color: rgb(79, 202, 79);
+    font-weight: bold;
+
+}
